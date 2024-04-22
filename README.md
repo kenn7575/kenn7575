@@ -118,4 +118,4 @@
   <img src="https://streak-stats.demolab.com?user=kenn7575&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<a href="https://app.daily.dev/kenn7575"><img src="https://api.daily.dev/devcards/v2/iKZwh4lchNHHngBtnSY0A.png?type=wide&r=l8f" width="652" alt="Kenni Kollemorten's Dev Card"/></a>
