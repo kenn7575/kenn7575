@@ -115,7 +115,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kenn7575&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenn7575&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kenn7575&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <a href="https://app.daily.dev/kenn7575"><img src="https://api.daily.dev/devcards/v2/iKZwh4lchNHHngBtnSY0A.png?type=wide&r=l8f" width="652" alt="Kenni Kollemorten's Dev Card"/></a>
