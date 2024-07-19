@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">A full-stack web developer, UI/UX designer and data technician specialized in programmer.</h2>
+<h2 align="left">A full-stack web developer, UI/UX designer and data technician specialized in programming.</h2>
 
 ###
 
